@@ -21,3 +21,5 @@ doc/deploy/
 *.mdb
 ServiceStack.Text
 test-results
+precog/js/src/node_modules/
+precog/js/test/node_modules/
